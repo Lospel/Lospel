@@ -17,10 +17,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/Lospel/chatbot_project"><img src="https://img.shields.io/badge/ChatBot-yellow?style=for-the-badge&logo=chatbot&logoColor=black"></a>
 <br>
 
-**📧Email📧**
+<!-- **📧Email📧**
 <br>
 rlaehdnl@gmail.com
-
+ -->
 **💻Stack💻**
 
 <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=Joplin&logoColor=black">
