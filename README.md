@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/Lospel/human_study"><img src="https://img.shields.io/badge/Coding_Study-blue?style=for-the-badge&logo=Visual Studio&logoColor=black"></a>
 <a href="https://github.com/Lospel/chatbot_project"><img src="https://img.shields.io/badge/ChatBot-yellow?style=for-the-badge&logo=chatbot&logoColor=black"></a>
+<a href="https://github.com/Lospel/seoulPublicBicycleProject"><img src="https://img.shields.io/badge/Bicycle-brightgreen?style=for-the-badge&logo=JavaScript&logoColor=black"></a>
 <br>
 
 <!-- **📧Email📧**
