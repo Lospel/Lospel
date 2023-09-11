@@ -31,7 +31,6 @@ rlaehdnl@gmail.com
 <br>
 <img src="https://img.shields.io/badge/OracleSQL-yellow?style=for-the-badge&logo=Oracle&logoColor=black">
 <img src="https://img.shields.io/badge/Spring-orange?style=for-the-badge&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/ML&DeepLearning-red?style=for-the-badge&logo=Probot&logoColor=black">
 
 <br>
   <br>
