@@ -27,10 +27,12 @@ rlaehdnl@gmail.com
 <img src="https://img.shields.io/badge/Java-brightgreen?style=for-the-badge&logo=Joplin&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/Python-yellowgreen?style=for-the-badge&logo=Python&logoColor=black">
-<img src="https://img.shields.io/badge/PostgreSQL-blueviolet?style=for-the-badge&logo=PostgreSQL&logoColor=black">
+<img src="https://img.shields.io/badge/.NET-orange?style=for-the-badge&logo=.NET&logoColor=black">
 <br>
-<img src="https://img.shields.io/badge/OracleSQL-yellow?style=for-the-badge&logo=Oracle&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-orange?style=for-the-badge&logo=Spring&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-brightgreen?style=for-the-badge&logo=MySQL&logoColor=black">
+<img src="https://img.shields.io/badge/OracleSQL-green?style=for-the-badge&logo=Oracle&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-yellowgreen?style=for-the-badge&logo=Spring&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-orange?style=for-the-badge&logo=PHP&logoColor=black">
 
 <br>
   <br>
